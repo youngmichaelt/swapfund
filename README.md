@@ -26,3 +26,8 @@ Everything lol
 3. Sell for gas fees
 
 
+Economics 
+1. I send 1 BNB and receive my 10 tokens, 1 being myToken
+2. By holding myToken, I generate new myTokens based on my holdings (SUPPY UP/DEMAND DOWN)
+3. I sell my holdings, when I send my tokens back to the contract, burn % of token that was minted?
+
