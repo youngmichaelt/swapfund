@@ -15,7 +15,7 @@ SwapFund is a decentralized crytpocurrency fund allowing users to easily swap an
 #TO DO 
 Everything lol
 1. Create functionality for interface in BSC test with javascript,html,etc. TEST
-2. Create smart contracts in TEST BSC
+2. Create functionality with nodejs 
 3. Create token for gas? TEST
 4. Create landing page
 5. Put it all together
